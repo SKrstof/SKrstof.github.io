@@ -1,0 +1,27 @@
+[
+    {"race": "Bahrain Grand Prix", "ver_points": 26, "nor_points": 8},
+    {"race": "Saudi Arabia Grand Prix", "ver_points": 25, "nor_points": 4},
+    {"race": "Australian Grand Prix", "ver_points": 0, "nor_points": 15},
+    {"race": "Japanese Grand Prix", "ver_points": 26, "nor_points": 10},
+    {"race": "Chinese Grand Prix", "ver_points": 25, "nor_points": 18},
+    {"race": "Miami Grand Prix", "ver_points": 18, "nor_points": 25},
+    {"race": "Emilia Romagna Grand Prix", "ver_points": 25, "nor_points": 18},
+    {"race": "Monaco Grand Prix", "ver_points": 8, "nor_points": 12},
+    {"race": "Canadian Grand Prix", "ver_points": 25, "nor_points": 18},
+    {"race": "Spanish Grand Prix", "ver_points": 25, "nor_points": 19},
+    {"race": "Austrian Grand Prix", "ver_points": 10, "nor_points": 0},
+    {"race": "British Grand Prix", "ver_points": 18, "nor_points": 15},
+    {"race": "Hungarian Grand Prix", "ver_points": 10, "nor_points": 18},
+    {"race": "Belgian Grand Prix", "ver_points": 12, "nor_points": 10},
+    {"race": "Dutch Grand Prix", "ver_points": 18, "nor_points": 26},
+    {"race": "Italian Grand Prix", "ver_points": 8, "nor_points": 16},
+    {"race": "Azerbaijan Grand Prix", "ver_points": 10, "nor_points": 13},
+    {"race": "Singapore Grand Prix", "ver_points": 18, "nor_points": 25},
+    {"race": "United States Grand Prix", "ver_points": 15, "nor_points": 12},
+    {"race": "Mexico City Grand Prix", "ver_points": 8, "nor_points": 18},
+    {"race": "Brazil Grand Prix", "ver_points": 26, "nor_points": 8},
+    {"race": "Las Vegas Grand Prix", "ver_points": 10, "nor_points": 8},
+    {"race": "Qatar Grand Prix", "ver_points": 25, "nor_points": 2},
+    {"race": "Abu Dhabi Grand Prix", "ver_points": 8, "nor_points": 25}
+  ]
+  

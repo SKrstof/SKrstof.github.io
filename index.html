@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólió</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 2rem 0;
+            text-align: center;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+
+        nav {
+            background-color: #333;
+            padding: 1rem 0;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 0.5rem 1.5rem;
+            display: inline-block;
+            transition: background-color 0.3s;
+        }
+
+        nav a:hover {
+            background-color: #555;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        section {
+            background: white;
+            margin: 2rem 0;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #667eea;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 0.5rem;
+            margin-bottom: 1.5rem;
+            font-size: 2rem;
+        }
+
+        .about-content {
+            display: flex;
+            gap: 2rem;
+            align-items: center;
+        }
+
+        .about-text {
+            flex: 2;
+        }
+
+        .about-image {
+            flex: 1;
+            text-align: center;
+        }
+
+        .about-image img {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 5px;
+        }
+
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        .skill-item {
+            background: #667eea;
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-size: 0.9rem;
+        }
+
+        .projects {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin-top: 1rem;
+        }
+
+        .project-card {
+            background: #f9f9f9;
+            padding: 1.5rem;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+            transition: transform 0.3s;
+        }
+
+        .project-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+
+        .project-card h3 {
+            color: #667eea;
+            margin-bottom: 0.5rem;
+        }
+
+        .contact-info {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .contact-item {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .contact-item strong {
+            color: #667eea;
+            min-width: 100px;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1.5rem 0;
+            margin-top: 2rem;
+        }
+
+        @media (max-width: 768px) {
+            .about-content {
+                flex-direction: column;
+            }
+
+            header h1 {
+                font-size: 2rem;
+            }
+
+            nav a {
+                display: block;
+                padding: 0.5rem;
+            }
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+    <header>
+        <h1>Siklódi Kristóf</h1>
+        <p>Business Intelligence | Portfólió</p>
+    </header>
+
+    <nav>
+        <a href="#vizualizacioim">Vizualizációim</a>
+        <a href="#kapcsolat">Kapcsolat</a>
+    </nav>
+
+        <section id="vizualizacioim">
+            <div class="vizualizalasok">
+                <h2>Vizualizációim</h2>
+                    <div id="chart1"></div>
+                    <div id="chart2"></div>
+                    <div id="chart3"></div>
+            </div>
+        </section>
+
+        <section id="kapcsolat">
+            <h2>Kapcsolat</h2>
+            <div class="contact-info">
+                <div class="contact-item">
+                    <strong>Email:</strong>
+                    <span>kristof.siklodi@stud.ubbcluj.ro</span>
+                </div>
+                <div class="contact-item">
+                    <strong>Telefon:</strong>
+                    <span>+40 74 134 2850</span>
+                </div>
+                <div class="contact-item">
+                    <strong>GitHub:</strong>
+                    <span>github.com/pelda</span>
+                </div>
+            </div>
+        </section>
+
+    <footer>
+        <p>&copy; 2025 Portfólió. Minden jog fenntartva.</p>
+    </footer>
+    
+    <script>
+        const barChart = {
+            $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
+            title: '2024-es F1-es szezon egyéni eredményei',
+            data: {url: 'f1_2024_drivers.json'},
+            mark: 'bar',
+            encoding: {
+                x: {field: 'driver', type: 'nominal', sort: '-y', title: 'Versenyző'},
+                y: {field: 'points', type: 'quantitative', title: 'Pontok'}
+            },
+            width: 800,
+            height: 400
+        };
+        vegaEmbed('#chart1', barChart);
+
+        const lineChart = {
+            $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
+            title: 'Verstappen vs Norris pontok alakulása futamonként',
+            data: {url: 'ver_vs_nor.json'},
+            transform: [
+                {
+                    window: [{op: 'row_number', as: 'race_order'}]
+                },
+                {
+                    fold: ['ver_points', 'nor_points'],
+                    as: ['driver_key', 'points']
+                },
+                {
+                    calculate: "datum.driver_key === 'ver_points' ? 'Verstappen' : 'Norris'",
+                    as: 'driver_name'
+                },
+                {
+                    window: [
+                        {
+                            op: 'sum',
+                            field: 'points',
+                            as: 'cumulative_points'
+                        }
+                    ],
+                    groupby: ['driver_name'],
+                    sort: [{'field': 'race_order'}],
+                    frame: [null, 0]
+                }
+            ],
+            mark: {type: 'line', strokeWidth: 3, point: true},
+            encoding: {
+                x: {
+                    field: 'race',
+                    type: 'nominal',
+                    title: 'Verseny',
+                    axis: {labelAngle: -45},
+                    sort: {'field': 'race_order', 'order': 'ascending'}
+                },
+                y: {field: 'cumulative_points', type: 'quantitative', title: 'Kumulatív Pontok'},
+                color: {
+                    field: 'driver_name',
+                    type: 'nominal',
+                    title: 'Versenyző',
+                    scale: {domain: ['Verstappen', 'Norris'], range: ['#1E40AF', '#DC2626']}
+                }
+            },
+            width: 800,
+            height: 400
+        };
+        vegaEmbed('#chart2', lineChart);
+
+        const dotChart = {
+            $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
+            title: 'Sergio Perez időmérős eredményei',
+            data: {url: 'perez_kvali.json'},
+            transform: [
+                {
+                    window: [{op: 'row_number', as: 'race_order'}]
+                }
+            ],
+            mark: {type: 'circle', size: 100, filled: true},
+            encoding: {
+                x: {
+                    field: 'verseny',
+                    type: 'nominal',
+                    title: 'Verseny',
+                    axis: {labelAngle: -45},
+                    sort: {'field': 'race_order', 'order': 'ascending'}
+                },
+                y: {
+                    field: 'helyezes',
+                    type: 'quantitative',
+                    title: 'Helyezés',
+                    scale: {reverse: true, domain: [1, 10]},
+                    axis: {tickCount: 10}
+                },
+                tooltip: [
+                    {field: 'verseny', type: 'nominal', title: 'Verseny'},
+                    {field: 'helyezes', type: 'quantitative', title: 'Helyezés'}
+                ]
+            },
+            
+            width: 800,
+            height: 400
+        };
+        vegaEmbed('#chart3', dotChart);
+    </script>
+</body>
+</html>

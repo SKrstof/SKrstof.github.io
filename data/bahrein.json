@@ -1,0 +1,8946 @@
+[
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 1,
+      "korido": 95.337,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 2,
+      "korido": 95.486,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 3,
+      "korido": 95.567,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 4,
+      "korido": 95.589,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 5,
+      "korido": 95.526,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 6,
+      "korido": 95.12,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 7,
+      "korido": 95.32,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 8,
+      "korido": 95.102,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 9,
+      "korido": 95.093,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 10,
+      "korido": 94.752,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 11,
+      "korido": 94.882,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 12,
+      "korido": 94.909,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 13,
+      "korido": 95.09,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 14,
+      "korido": 116.742,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 15,
+      "korido": 95.033,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 16,
+      "korido": 94.717,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 17,
+      "korido": 94.834,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 18,
+      "korido": 94.74,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 19,
+      "korido": 116.625,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 20,
+      "korido": 94.346,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 21,
+      "korido": 94.353,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 22,
+      "korido": 94.524,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 23,
+      "korido": 94.431,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 24,
+      "korido": 94.405,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 25,
+      "korido": 94.292,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 26,
+      "korido": 94.311,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 27,
+      "korido": 93.965,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 28,
+      "korido": 93.86,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 29,
+      "korido": 94.194,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 30,
+      "korido": 94.305,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 31,
+      "korido": 93.74,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 32,
+      "korido": 93.758,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 33,
+      "korido": 93.656,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 34,
+      "korido": 93.981,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 35,
+      "korido": 93.501,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 36,
+      "korido": 93.508,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 37,
+      "korido": 93.616,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 38,
+      "korido": 93.519,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 39,
+      "korido": 93.601,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 40,
+      "korido": 93.525,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 41,
+      "korido": 93.677,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 42,
+      "korido": 93.439,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 43,
+      "korido": 93.073,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 44,
+      "korido": 93.148,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 45,
+      "korido": 93.35,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 46,
+      "korido": 93.501,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 47,
+      "korido": 93.27,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 48,
+      "korido": 92.992,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 49,
+      "korido": 92.843,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 50,
+      "korido": 92.901,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 51,
+      "korido": 93.15,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 52,
+      "korido": 92.812,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 53,
+      "korido": 92.909,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 54,
+      "korido": 92.919,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 55,
+      "korido": 92.629,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 56,
+      "korido": 92.68,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Max Verstappen",
+      "kod": "VER",
+      "csapat": "Red Bull",
+      "kor": 57,
+      "korido": 92.653,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 1,
+      "korido": 95.944,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 2,
+      "korido": 95.733,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 3,
+      "korido": 96.034,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 4,
+      "korido": 95.643,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 5,
+      "korido": 95.645,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 6,
+      "korido": 95.955,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 7,
+      "korido": 95.424,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 8,
+      "korido": 95.488,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 9,
+      "korido": 95.463,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 10,
+      "korido": 95.453,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 11,
+      "korido": 95.721,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 12,
+      "korido": 95.205,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 13,
+      "korido": 95.469,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 14,
+      "korido": 95.147,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 15,
+      "korido": 95.097,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 16,
+      "korido": 95.137,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 17,
+      "korido": 95.313,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 18,
+      "korido": 95.431,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 19,
+      "korido": 94.828,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 20,
+      "korido": 94.888,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 21,
+      "korido": 94.733,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 22,
+      "korido": 94.751,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 23,
+      "korido": 94.902,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 24,
+      "korido": 94.579,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 25,
+      "korido": 94.979,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 26,
+      "korido": 94.618,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 27,
+      "korido": 94.698,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 28,
+      "korido": 94.468,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 29,
+      "korido": 94.769,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 30,
+      "korido": 94.354,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 31,
+      "korido": 94.245,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 32,
+      "korido": 94.217,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 33,
+      "korido": 94.342,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 34,
+      "korido": 116.524,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 35,
+      "korido": 94.467,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 36,
+      "korido": 93.933,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 37,
+      "korido": 93.981,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 38,
+      "korido": 94.307,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 39,
+      "korido": 116.362,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 40,
+      "korido": 94.064,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 41,
+      "korido": 94.142,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 42,
+      "korido": 94.108,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 43,
+      "korido": 94.124,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 44,
+      "korido": 94.095,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 45,
+      "korido": 93.6,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 46,
+      "korido": 93.997,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 47,
+      "korido": 93.851,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 48,
+      "korido": 93.674,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 49,
+      "korido": 93.265,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 50,
+      "korido": 93.562,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 51,
+      "korido": 93.498,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 52,
+      "korido": 93.351,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 53,
+      "korido": 93.471,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 54,
+      "korido": 93.019,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 55,
+      "korido": 93.194,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 56,
+      "korido": 93.234,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Sergio P\u00e9rez",
+      "kod": "PER",
+      "csapat": "Red Bull",
+      "kor": 57,
+      "korido": 93.409,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 1,
+      "korido": 95.908,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 2,
+      "korido": 96.272,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 3,
+      "korido": 96.188,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 4,
+      "korido": 95.972,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 5,
+      "korido": 95.8,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 6,
+      "korido": 95.788,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 7,
+      "korido": 96.134,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 8,
+      "korido": 95.872,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 9,
+      "korido": 95.677,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 10,
+      "korido": 95.894,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 11,
+      "korido": 95.785,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 12,
+      "korido": 95.815,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 13,
+      "korido": 117.702,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 14,
+      "korido": 95.406,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 15,
+      "korido": 95.277,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 16,
+      "korido": 95.219,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 17,
+      "korido": 95.624,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 18,
+      "korido": 95.4,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 19,
+      "korido": 94.992,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 20,
+      "korido": 95.083,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 21,
+      "korido": 95.255,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 22,
+      "korido": 95.194,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 23,
+      "korido": 94.995,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 24,
+      "korido": 95.041,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 25,
+      "korido": 94.726,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 26,
+      "korido": 95.118,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 27,
+      "korido": 94.603,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 28,
+      "korido": 95.077,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 29,
+      "korido": 95.011,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 30,
+      "korido": 94.578,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 31,
+      "korido": 94.554,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 32,
+      "korido": 94.404,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 33,
+      "korido": 94.642,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 34,
+      "korido": 94.471,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 35,
+      "korido": 94.707,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 36,
+      "korido": 94.682,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 37,
+      "korido": 94.513,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 38,
+      "korido": 94.037,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 39,
+      "korido": 94.058,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 40,
+      "korido": 116.408,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 41,
+      "korido": 94.116,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 42,
+      "korido": 93.956,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 43,
+      "korido": 94.029,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 44,
+      "korido": 94.171,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 45,
+      "korido": 94.153,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 46,
+      "korido": 93.976,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 47,
+      "korido": 94.11,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 48,
+      "korido": 93.953,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 49,
+      "korido": 93.551,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 50,
+      "korido": 93.593,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 51,
+      "korido": 93.905,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 52,
+      "korido": 93.522,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 53,
+      "korido": 93.265,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 54,
+      "korido": 93.727,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 55,
+      "korido": 93.152,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 56,
+      "korido": 93.687,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Carlos Sainz",
+      "kod": "SAI",
+      "csapat": "Ferrari",
+      "kor": 57,
+      "korido": 93.495,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 1,
+      "korido": 96.152,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 2,
+      "korido": 96.156,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 3,
+      "korido": 96.463,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 4,
+      "korido": 95.957,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 5,
+      "korido": 96.202,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 6,
+      "korido": 95.807,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 7,
+      "korido": 95.754,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 8,
+      "korido": 95.941,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 9,
+      "korido": 95.985,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 10,
+      "korido": 95.821,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 11,
+      "korido": 95.858,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 12,
+      "korido": 95.873,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 13,
+      "korido": 95.875,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 14,
+      "korido": 95.935,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 15,
+      "korido": 95.549,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 16,
+      "korido": 95.761,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 17,
+      "korido": 95.752,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 18,
+      "korido": 95.325,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 19,
+      "korido": 95.5,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 20,
+      "korido": 95.309,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 21,
+      "korido": 95.005,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 22,
+      "korido": 95.048,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 23,
+      "korido": 95.123,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 24,
+      "korido": 117.032,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 25,
+      "korido": 94.96,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 26,
+      "korido": 94.76,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 27,
+      "korido": 94.986,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 28,
+      "korido": 95.223,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 29,
+      "korido": 95.04,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 30,
+      "korido": 94.609,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 31,
+      "korido": 95.003,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 32,
+      "korido": 94.443,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 33,
+      "korido": 94.811,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 34,
+      "korido": 94.397,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 35,
+      "korido": 94.84,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 36,
+      "korido": 94.596,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 37,
+      "korido": 116.509,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 38,
+      "korido": 94.687,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 39,
+      "korido": 94.25,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 40,
+      "korido": 94.396,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 41,
+      "korido": 94.354,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 42,
+      "korido": 94.212,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 43,
+      "korido": 94.336,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 44,
+      "korido": 94.084,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 45,
+      "korido": 93.816,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 46,
+      "korido": 94.148,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 47,
+      "korido": 93.916,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 48,
+      "korido": 94.083,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 49,
+      "korido": 94.078,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 50,
+      "korido": 93.915,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 51,
+      "korido": 93.663,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 52,
+      "korido": 93.596,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 53,
+      "korido": 93.912,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 54,
+      "korido": 93.685,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 55,
+      "korido": 93.545,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 56,
+      "korido": 93.601,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Charles Leclerc",
+      "kod": "LEC",
+      "csapat": "Ferrari",
+      "kor": 57,
+      "korido": 93.326,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 1,
+      "korido": 96.573,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 2,
+      "korido": 96.651,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 3,
+      "korido": 96.422,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 4,
+      "korido": 96.436,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 5,
+      "korido": 96.038,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 6,
+      "korido": 96.314,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 7,
+      "korido": 96.004,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 8,
+      "korido": 96.385,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 9,
+      "korido": 95.912,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 10,
+      "korido": 95.817,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 11,
+      "korido": 96.013,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 12,
+      "korido": 96.035,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 13,
+      "korido": 95.835,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 14,
+      "korido": 96.135,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 15,
+      "korido": 95.957,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 16,
+      "korido": 95.564,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 17,
+      "korido": 95.901,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 18,
+      "korido": 95.527,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 19,
+      "korido": 95.638,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 20,
+      "korido": 95.434,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 21,
+      "korido": 95.209,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 22,
+      "korido": 95.35,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 23,
+      "korido": 95.104,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 24,
+      "korido": 95.463,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 25,
+      "korido": 95.135,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 26,
+      "korido": 95.353,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 27,
+      "korido": 94.936,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 28,
+      "korido": 95.206,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 29,
+      "korido": 117.202,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 30,
+      "korido": 94.835,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 31,
+      "korido": 95.208,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 32,
+      "korido": 94.855,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 33,
+      "korido": 94.969,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 34,
+      "korido": 94.985,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 35,
+      "korido": 94.635,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 36,
+      "korido": 94.46,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 37,
+      "korido": 94.609,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 38,
+      "korido": 94.409,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 39,
+      "korido": 94.824,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 40,
+      "korido": 94.382,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 41,
+      "korido": 94.693,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 42,
+      "korido": 94.498,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 43,
+      "korido": 116.477,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 44,
+      "korido": 94.075,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 45,
+      "korido": 94.509,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 46,
+      "korido": 94.333,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 47,
+      "korido": 94.096,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 48,
+      "korido": 94.19,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 49,
+      "korido": 94.022,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 50,
+      "korido": 93.984,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 51,
+      "korido": 93.98,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 52,
+      "korido": 94.171,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 53,
+      "korido": 94.068,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 54,
+      "korido": 93.966,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 55,
+      "korido": 93.769,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 56,
+      "korido": 93.938,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "George Russell",
+      "kod": "RUS",
+      "csapat": "Mercedes",
+      "kor": 57,
+      "korido": 93.854,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 1,
+      "korido": 96.617,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 2,
+      "korido": 96.759,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 3,
+      "korido": 96.327,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 4,
+      "korido": 96.507,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 5,
+      "korido": 96.126,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 6,
+      "korido": 96.349,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 7,
+      "korido": 96.587,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 8,
+      "korido": 96.477,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 9,
+      "korido": 96.473,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 10,
+      "korido": 96.1,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 11,
+      "korido": 95.872,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 12,
+      "korido": 95.811,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 13,
+      "korido": 95.867,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 14,
+      "korido": 95.939,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 15,
+      "korido": 96.059,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 16,
+      "korido": 95.899,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 17,
+      "korido": 95.538,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 18,
+      "korido": 95.877,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 19,
+      "korido": 95.516,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 20,
+      "korido": 95.616,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 21,
+      "korido": 95.429,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 22,
+      "korido": 95.273,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 23,
+      "korido": 95.402,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 24,
+      "korido": 95.644,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 25,
+      "korido": 95.661,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 26,
+      "korido": 95.501,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 27,
+      "korido": 95.472,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 28,
+      "korido": 94.969,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 29,
+      "korido": 95.415,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 30,
+      "korido": 95.079,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 31,
+      "korido": 94.879,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 32,
+      "korido": 116.95,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 33,
+      "korido": 94.899,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 34,
+      "korido": 95.159,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 35,
+      "korido": 94.695,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 36,
+      "korido": 95.052,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 37,
+      "korido": 94.611,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 38,
+      "korido": 95.005,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 39,
+      "korido": 94.753,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 40,
+      "korido": 94.324,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 41,
+      "korido": 116.669,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 42,
+      "korido": 94.477,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 43,
+      "korido": 94.725,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 44,
+      "korido": 94.623,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 45,
+      "korido": 94.65,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 46,
+      "korido": 94.448,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 47,
+      "korido": 94.043,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 48,
+      "korido": 94.269,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 49,
+      "korido": 94.175,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 50,
+      "korido": 93.822,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 51,
+      "korido": 94.152,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 52,
+      "korido": 94.045,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 53,
+      "korido": 93.826,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 54,
+      "korido": 93.655,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 55,
+      "korido": 94.047,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 56,
+      "korido": 93.597,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lando Norris",
+      "kod": "NOR",
+      "csapat": "McLaren",
+      "kor": 57,
+      "korido": 93.448,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 1,
+      "korido": 96.656,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 2,
+      "korido": 96.583,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 3,
+      "korido": 96.644,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 4,
+      "korido": 96.541,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 5,
+      "korido": 96.683,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 6,
+      "korido": 96.247,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 7,
+      "korido": 96.211,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 8,
+      "korido": 96.153,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 9,
+      "korido": 96.35,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 10,
+      "korido": 96.356,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 11,
+      "korido": 96.133,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 12,
+      "korido": 96.12,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 13,
+      "korido": 95.985,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 14,
+      "korido": 95.978,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 15,
+      "korido": 95.908,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 16,
+      "korido": 95.649,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 17,
+      "korido": 117.588,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 18,
+      "korido": 95.66,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 19,
+      "korido": 96.056,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 20,
+      "korido": 95.73,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 21,
+      "korido": 95.743,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 22,
+      "korido": 95.496,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 23,
+      "korido": 95.302,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 24,
+      "korido": 117.443,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 25,
+      "korido": 95.726,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 26,
+      "korido": 95.281,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 27,
+      "korido": 95.607,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 28,
+      "korido": 95.552,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 29,
+      "korido": 95.206,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 30,
+      "korido": 95.352,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 31,
+      "korido": 95.458,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 32,
+      "korido": 94.845,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 33,
+      "korido": 94.93,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 34,
+      "korido": 95.316,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 35,
+      "korido": 95.129,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 36,
+      "korido": 94.713,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 37,
+      "korido": 95.119,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 38,
+      "korido": 94.799,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 39,
+      "korido": 94.651,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 40,
+      "korido": 94.783,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 41,
+      "korido": 94.559,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 42,
+      "korido": 94.456,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 43,
+      "korido": 94.655,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 44,
+      "korido": 94.683,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 45,
+      "korido": 94.287,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 46,
+      "korido": 94.642,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 47,
+      "korido": 94.129,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 48,
+      "korido": 94.531,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 49,
+      "korido": 94.532,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 50,
+      "korido": 93.965,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 51,
+      "korido": 94.373,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 52,
+      "korido": 94.311,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 53,
+      "korido": 94.057,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 54,
+      "korido": 93.728,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 55,
+      "korido": 93.889,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 56,
+      "korido": 93.602,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lewis Hamilton",
+      "kod": "HAM",
+      "csapat": "Mercedes",
+      "kor": 57,
+      "korido": 93.804,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 1,
+      "korido": 96.92,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 2,
+      "korido": 97.044,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 3,
+      "korido": 96.961,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 4,
+      "korido": 96.403,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 5,
+      "korido": 96.36,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 6,
+      "korido": 96.469,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 7,
+      "korido": 96.64,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 8,
+      "korido": 96.215,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 9,
+      "korido": 96.491,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 10,
+      "korido": 96.603,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 11,
+      "korido": 96.291,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 12,
+      "korido": 96.289,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 13,
+      "korido": 96.207,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 14,
+      "korido": 95.942,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 15,
+      "korido": 95.996,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 16,
+      "korido": 95.892,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 17,
+      "korido": 95.975,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 18,
+      "korido": 96.184,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 19,
+      "korido": 96.177,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 20,
+      "korido": 96.061,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 21,
+      "korido": 95.887,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 22,
+      "korido": 95.806,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 23,
+      "korido": 117.751,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 24,
+      "korido": 95.575,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 25,
+      "korido": 95.47,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 26,
+      "korido": 95.616,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 27,
+      "korido": 95.231,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 28,
+      "korido": 95.524,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 29,
+      "korido": 95.133,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 30,
+      "korido": 95.542,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 31,
+      "korido": 117.221,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 32,
+      "korido": 95.38,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 33,
+      "korido": 95.298,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 34,
+      "korido": 94.822,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 35,
+      "korido": 95.347,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 36,
+      "korido": 94.878,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 37,
+      "korido": 95.218,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 38,
+      "korido": 95.118,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 39,
+      "korido": 94.643,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 40,
+      "korido": 94.91,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 41,
+      "korido": 94.848,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 42,
+      "korido": 94.849,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 43,
+      "korido": 94.688,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 44,
+      "korido": 94.849,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 45,
+      "korido": 94.386,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 46,
+      "korido": 94.478,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 47,
+      "korido": 94.572,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 48,
+      "korido": 94.475,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 49,
+      "korido": 94.557,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 50,
+      "korido": 94.282,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 51,
+      "korido": 94.099,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 52,
+      "korido": 94.214,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 53,
+      "korido": 94.347,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 54,
+      "korido": 94.269,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 55,
+      "korido": 94.062,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 56,
+      "korido": 94.262,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Oscar Piastri",
+      "kod": "PIA",
+      "csapat": "McLaren",
+      "kor": 57,
+      "korido": 93.901,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 1,
+      "korido": 97.293,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 2,
+      "korido": 96.934,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 3,
+      "korido": 97.036,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 4,
+      "korido": 97.112,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 5,
+      "korido": 97.058,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 6,
+      "korido": 96.695,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 7,
+      "korido": 96.725,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 8,
+      "korido": 96.775,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 9,
+      "korido": 96.774,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 10,
+      "korido": 96.669,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 11,
+      "korido": 96.544,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 12,
+      "korido": 96.517,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 13,
+      "korido": 96.206,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 14,
+      "korido": 96.557,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 15,
+      "korido": 96.006,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 16,
+      "korido": 96.424,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 17,
+      "korido": 96.147,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 18,
+      "korido": 96.43,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 19,
+      "korido": 95.965,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 20,
+      "korido": 95.985,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 21,
+      "korido": 96.088,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 22,
+      "korido": 95.637,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 23,
+      "korido": 95.773,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 24,
+      "korido": 95.621,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 25,
+      "korido": 95.669,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 26,
+      "korido": 95.697,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 27,
+      "korido": 95.395,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 28,
+      "korido": 117.704,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 29,
+      "korido": 95.805,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 30,
+      "korido": 95.486,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 31,
+      "korido": 95.61,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 32,
+      "korido": 95.714,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 33,
+      "korido": 95.335,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 34,
+      "korido": 95.105,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 35,
+      "korido": 117.007,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 36,
+      "korido": 95.401,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 37,
+      "korido": 95.454,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 38,
+      "korido": 95.382,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 39,
+      "korido": 94.764,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 40,
+      "korido": 95.103,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 41,
+      "korido": 94.84,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 42,
+      "korido": 95.185,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 43,
+      "korido": 95.083,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 44,
+      "korido": 94.835,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 45,
+      "korido": 94.713,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 46,
+      "korido": 94.595,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 47,
+      "korido": 94.71,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 48,
+      "korido": 94.606,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 49,
+      "korido": 94.616,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 50,
+      "korido": 94.426,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 51,
+      "korido": 94.447,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 52,
+      "korido": 94.317,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 53,
+      "korido": 94.329,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 54,
+      "korido": 94.337,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 55,
+      "korido": 94.528,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 56,
+      "korido": 94.158,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Fernando Alonso",
+      "kod": "ALO",
+      "csapat": "Aston Martin",
+      "kor": 57,
+      "korido": 94.396,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 1,
+      "korido": 97.757,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 2,
+      "korido": 97.419,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 3,
+      "korido": 97.305,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 4,
+      "korido": 97.146,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 5,
+      "korido": 97.477,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 6,
+      "korido": 96.951,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 7,
+      "korido": 96.941,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 8,
+      "korido": 97.214,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 9,
+      "korido": 96.951,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 10,
+      "korido": 97.132,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 11,
+      "korido": 97.203,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 12,
+      "korido": 96.988,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 13,
+      "korido": 96.681,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 14,
+      "korido": 96.985,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 15,
+      "korido": 97.025,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 16,
+      "korido": 96.843,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 17,
+      "korido": 96.408,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 18,
+      "korido": 96.903,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 19,
+      "korido": 96.828,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 20,
+      "korido": 96.335,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 21,
+      "korido": 96.186,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 22,
+      "korido": 96.249,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 23,
+      "korido": 96.117,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 24,
+      "korido": 96.071,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 25,
+      "korido": 96.421,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 26,
+      "korido": 96.43,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 27,
+      "korido": 96.267,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 28,
+      "korido": 96.292,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 29,
+      "korido": 95.824,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 30,
+      "korido": 96.228,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 31,
+      "korido": 96.069,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 32,
+      "korido": 117.933,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 33,
+      "korido": 95.966,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 34,
+      "korido": 95.987,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 35,
+      "korido": 95.649,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 36,
+      "korido": 95.948,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 37,
+      "korido": 95.37,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 38,
+      "korido": 95.411,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 39,
+      "korido": 95.842,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 40,
+      "korido": 95.25,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 41,
+      "korido": 95.186,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 42,
+      "korido": 95.483,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 43,
+      "korido": 95.217,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 44,
+      "korido": 117.228,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 45,
+      "korido": 95.172,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 46,
+      "korido": 95.419,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 47,
+      "korido": 94.924,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 48,
+      "korido": 95.013,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 49,
+      "korido": 94.763,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 50,
+      "korido": 95.035,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 51,
+      "korido": 95.203,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 52,
+      "korido": 94.868,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 53,
+      "korido": 94.571,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 54,
+      "korido": 94.582,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 55,
+      "korido": 94.984,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 56,
+      "korido": 94.84,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Lance Stroll",
+      "kod": "STR",
+      "csapat": "Aston Martin",
+      "kor": 57,
+      "korido": 94.756,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 1,
+      "korido": 97.732,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 2,
+      "korido": 97.612,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 3,
+      "korido": 97.478,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 4,
+      "korido": 97.472,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 5,
+      "korido": 97.675,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 6,
+      "korido": 97.27,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 7,
+      "korido": 97.784,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 8,
+      "korido": 97.518,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 9,
+      "korido": 97.342,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 10,
+      "korido": 97.621,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 11,
+      "korido": 97.328,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 12,
+      "korido": 97.096,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 13,
+      "korido": 96.994,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 14,
+      "korido": 96.853,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 15,
+      "korido": 96.791,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 16,
+      "korido": 97.227,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 17,
+      "korido": 96.769,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 18,
+      "korido": 97.02,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 19,
+      "korido": 96.797,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 20,
+      "korido": 118.858,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 21,
+      "korido": 96.78,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 22,
+      "korido": 96.918,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 23,
+      "korido": 96.643,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 24,
+      "korido": 96.64,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 25,
+      "korido": 96.592,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 26,
+      "korido": 118.682,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 27,
+      "korido": 96.738,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 28,
+      "korido": 96.585,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 29,
+      "korido": 96.205,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 30,
+      "korido": 96.054,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 31,
+      "korido": 96.45,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 32,
+      "korido": 96.517,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 33,
+      "korido": 96.368,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 34,
+      "korido": 96.356,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 35,
+      "korido": 96.037,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 36,
+      "korido": 95.968,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 37,
+      "korido": 96.03,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 38,
+      "korido": 95.778,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 39,
+      "korido": 95.993,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 40,
+      "korido": 96.012,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 41,
+      "korido": 95.54,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 42,
+      "korido": 95.439,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 43,
+      "korido": 95.744,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 44,
+      "korido": 95.388,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 45,
+      "korido": 95.814,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 46,
+      "korido": 95.496,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 47,
+      "korido": 95.692,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 48,
+      "korido": 95.396,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 49,
+      "korido": 95.089,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 50,
+      "korido": 95.038,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 51,
+      "korido": 94.965,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 52,
+      "korido": 95.487,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 53,
+      "korido": 94.902,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 54,
+      "korido": 95.358,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 55,
+      "korido": 95.244,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 56,
+      "korido": 95.101,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Yuki Tsunoda",
+      "kod": "TSU",
+      "csapat": "RB",
+      "kor": 57,
+      "korido": 94.763,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 1,
+      "korido": 97.702,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 2,
+      "korido": 98.222,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 3,
+      "korido": 97.823,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 4,
+      "korido": 97.666,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 5,
+      "korido": 97.809,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 6,
+      "korido": 97.49,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 7,
+      "korido": 97.681,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 8,
+      "korido": 97.4,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 9,
+      "korido": 97.346,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 10,
+      "korido": 97.594,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 11,
+      "korido": 97.205,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 12,
+      "korido": 97.564,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 13,
+      "korido": 97.643,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 14,
+      "korido": 97.359,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 15,
+      "korido": 97.228,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 16,
+      "korido": 97.46,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 17,
+      "korido": 118.949,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 18,
+      "korido": 96.892,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 19,
+      "korido": 97.168,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 20,
+      "korido": 97.242,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 21,
+      "korido": 96.898,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 22,
+      "korido": 97.014,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 23,
+      "korido": 97.009,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 24,
+      "korido": 96.805,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 25,
+      "korido": 96.612,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 26,
+      "korido": 96.572,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 27,
+      "korido": 96.523,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 28,
+      "korido": 96.889,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 29,
+      "korido": 96.615,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 30,
+      "korido": 96.722,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 31,
+      "korido": 96.248,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 32,
+      "korido": 96.6,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 33,
+      "korido": 96.317,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 34,
+      "korido": 96.461,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 35,
+      "korido": 96.327,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 36,
+      "korido": 96.509,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 37,
+      "korido": 96.162,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 38,
+      "korido": 96.065,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 39,
+      "korido": 96.098,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 40,
+      "korido": 96.087,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 41,
+      "korido": 96.247,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 42,
+      "korido": 96.022,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 43,
+      "korido": 95.584,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 44,
+      "korido": 117.94,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 45,
+      "korido": 95.685,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 46,
+      "korido": 95.931,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 47,
+      "korido": 95.663,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 48,
+      "korido": 95.844,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 49,
+      "korido": 95.75,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 50,
+      "korido": 95.676,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 51,
+      "korido": 95.25,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 52,
+      "korido": 95.148,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 53,
+      "korido": 95.37,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 54,
+      "korido": 95.127,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 55,
+      "korido": 95.443,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 56,
+      "korido": 95.189,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Daniel Ricciardo",
+      "kod": "RIC",
+      "csapat": "RB",
+      "kor": 57,
+      "korido": 95.277,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 1,
+      "korido": 98.322,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 2,
+      "korido": 98.222,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 3,
+      "korido": 98.275,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 4,
+      "korido": 98.184,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 5,
+      "korido": 97.854,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 6,
+      "korido": 98.12,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 7,
+      "korido": 97.982,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 8,
+      "korido": 97.914,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 9,
+      "korido": 98.058,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 10,
+      "korido": 97.732,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 11,
+      "korido": 97.667,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 12,
+      "korido": 97.797,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 13,
+      "korido": 97.876,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 14,
+      "korido": 97.592,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 15,
+      "korido": 97.544,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 16,
+      "korido": 97.508,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 17,
+      "korido": 97.521,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 18,
+      "korido": 97.596,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 19,
+      "korido": 97.555,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 20,
+      "korido": 97.059,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 21,
+      "korido": 97.112,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 22,
+      "korido": 97.343,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 23,
+      "korido": 96.884,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 24,
+      "korido": 97.05,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 25,
+      "korido": 96.726,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 26,
+      "korido": 96.821,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 27,
+      "korido": 97.037,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 28,
+      "korido": 97.031,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 29,
+      "korido": 96.564,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 30,
+      "korido": 118.466,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 31,
+      "korido": 96.787,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 32,
+      "korido": 96.329,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 33,
+      "korido": 96.666,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 34,
+      "korido": 96.591,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 35,
+      "korido": 96.267,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 36,
+      "korido": 96.144,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 37,
+      "korido": 96.405,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 38,
+      "korido": 118.514,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 39,
+      "korido": 96.373,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 40,
+      "korido": 96.19,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 41,
+      "korido": 96.143,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 42,
+      "korido": 96.029,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 43,
+      "korido": 96.211,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 44,
+      "korido": 96.034,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 45,
+      "korido": 95.992,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 46,
+      "korido": 95.916,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 47,
+      "korido": 95.607,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 48,
+      "korido": 95.963,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 49,
+      "korido": 95.687,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 50,
+      "korido": 95.862,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 51,
+      "korido": 95.683,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 52,
+      "korido": 95.899,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 53,
+      "korido": 95.415,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 54,
+      "korido": 95.212,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 55,
+      "korido": 95.41,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 56,
+      "korido": 95.689,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Kevin Magnussen",
+      "kod": "MAG",
+      "csapat": "Haas",
+      "kor": 57,
+      "korido": 95.638,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 1,
+      "korido": 97.987,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 2,
+      "korido": 98.328,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 3,
+      "korido": 97.966,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 4,
+      "korido": 98.163,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 5,
+      "korido": 97.976,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 6,
+      "korido": 97.818,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 7,
+      "korido": 97.818,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 8,
+      "korido": 97.644,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 9,
+      "korido": 97.824,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 10,
+      "korido": 98.0,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 11,
+      "korido": 97.736,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 12,
+      "korido": 97.373,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 13,
+      "korido": 97.303,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 14,
+      "korido": 97.373,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 15,
+      "korido": 97.532,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 16,
+      "korido": 97.448,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 17,
+      "korido": 97.187,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 18,
+      "korido": 97.255,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 19,
+      "korido": 97.045,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 20,
+      "korido": 97.386,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 21,
+      "korido": 96.948,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 22,
+      "korido": 97.323,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 23,
+      "korido": 97.368,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 24,
+      "korido": 97.312,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 25,
+      "korido": 96.86,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 26,
+      "korido": 96.778,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 27,
+      "korido": 97.004,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 28,
+      "korido": 118.965,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 29,
+      "korido": 96.586,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 30,
+      "korido": 96.721,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 31,
+      "korido": 118.535,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 32,
+      "korido": 96.41,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 33,
+      "korido": 96.748,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 34,
+      "korido": 96.69,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 35,
+      "korido": 96.732,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 36,
+      "korido": 96.579,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 37,
+      "korido": 96.607,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 38,
+      "korido": 96.089,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 39,
+      "korido": 96.295,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 40,
+      "korido": 96.156,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 41,
+      "korido": 96.267,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 42,
+      "korido": 96.233,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 43,
+      "korido": 96.313,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 44,
+      "korido": 96.272,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 45,
+      "korido": 95.987,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 46,
+      "korido": 96.12,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 47,
+      "korido": 95.876,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 48,
+      "korido": 95.694,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 49,
+      "korido": 95.704,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 50,
+      "korido": 95.615,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 51,
+      "korido": 95.667,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 52,
+      "korido": 95.752,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 53,
+      "korido": 95.293,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 54,
+      "korido": 95.531,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 55,
+      "korido": 95.172,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 56,
+      "korido": 95.25,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Nico H\u00fclkenberg",
+      "kod": "HUL",
+      "csapat": "Haas",
+      "kor": 57,
+      "korido": 95.522,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 1,
+      "korido": 98.368,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 2,
+      "korido": 98.597,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 3,
+      "korido": 98.342,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 4,
+      "korido": 98.264,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 5,
+      "korido": 98.296,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 6,
+      "korido": 98.399,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 7,
+      "korido": 98.339,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 8,
+      "korido": 98.166,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 9,
+      "korido": 98.145,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 10,
+      "korido": 98.02,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 11,
+      "korido": 98.011,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 12,
+      "korido": 120.208,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 13,
+      "korido": 97.933,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 14,
+      "korido": 119.944,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 15,
+      "korido": 97.668,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 16,
+      "korido": 97.948,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 17,
+      "korido": 97.926,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 18,
+      "korido": 97.786,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 19,
+      "korido": 97.841,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 20,
+      "korido": 97.637,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 21,
+      "korido": 97.543,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 22,
+      "korido": 97.217,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 23,
+      "korido": 97.365,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 24,
+      "korido": 97.593,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 25,
+      "korido": 96.996,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 26,
+      "korido": 96.971,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 27,
+      "korido": 97.386,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 28,
+      "korido": 97.084,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 29,
+      "korido": 97.249,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 30,
+      "korido": 96.724,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 31,
+      "korido": 96.891,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 32,
+      "korido": 97.167,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 33,
+      "korido": 96.671,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 34,
+      "korido": 97.072,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 35,
+      "korido": 96.48,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 36,
+      "korido": 96.949,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 37,
+      "korido": 96.926,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 38,
+      "korido": 96.787,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 39,
+      "korido": 96.465,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 40,
+      "korido": 96.383,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 41,
+      "korido": 96.389,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 42,
+      "korido": 96.184,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 43,
+      "korido": 96.21,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 44,
+      "korido": 96.066,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 45,
+      "korido": 96.416,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 46,
+      "korido": 96.143,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 47,
+      "korido": 96.019,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 48,
+      "korido": 95.939,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 49,
+      "korido": 96.164,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 50,
+      "korido": 95.739,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 51,
+      "korido": 95.69,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 52,
+      "korido": 95.701,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 53,
+      "korido": 96.1,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 54,
+      "korido": 96.049,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 55,
+      "korido": 95.468,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 56,
+      "korido": 95.665,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Alexander Albon",
+      "kod": "ALB",
+      "csapat": "Williams",
+      "kor": 57,
+      "korido": 95.554,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 1,
+      "korido": 98.493,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 2,
+      "korido": 98.373,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 3,
+      "korido": 98.585,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 4,
+      "korido": 98.533,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 5,
+      "korido": 98.601,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 6,
+      "korido": 98.149,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 7,
+      "korido": 98.621,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 8,
+      "korido": 98.263,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 9,
+      "korido": 98.59,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 10,
+      "korido": 98.407,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 11,
+      "korido": 97.979,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 12,
+      "korido": 120.166,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 13,
+      "korido": 98.068,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 14,
+      "korido": 97.951,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 15,
+      "korido": 97.894,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 16,
+      "korido": 97.71,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 17,
+      "korido": 97.671,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 18,
+      "korido": 97.938,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 19,
+      "korido": 97.502,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 20,
+      "korido": 97.679,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 21,
+      "korido": 97.827,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 22,
+      "korido": 97.829,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 23,
+      "korido": 97.399,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 24,
+      "korido": 97.491,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 25,
+      "korido": 97.224,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 26,
+      "korido": 97.272,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 27,
+      "korido": 97.383,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 28,
+      "korido": 97.147,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 29,
+      "korido": 97.49,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 30,
+      "korido": 97.124,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 31,
+      "korido": 97.185,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 32,
+      "korido": 96.946,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 33,
+      "korido": 96.888,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 34,
+      "korido": 97.038,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 35,
+      "korido": 96.892,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 36,
+      "korido": 97.203,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 37,
+      "korido": 97.096,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 38,
+      "korido": 96.801,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 39,
+      "korido": 96.64,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 40,
+      "korido": 96.71,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 41,
+      "korido": 96.486,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 42,
+      "korido": 96.455,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 43,
+      "korido": 96.76,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 44,
+      "korido": 118.313,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 45,
+      "korido": 96.499,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 46,
+      "korido": 96.171,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 47,
+      "korido": 96.645,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 48,
+      "korido": 96.063,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 49,
+      "korido": 96.184,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 50,
+      "korido": 96.374,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 51,
+      "korido": 96.284,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 52,
+      "korido": 95.822,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 53,
+      "korido": 96.199,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 54,
+      "korido": 95.701,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 55,
+      "korido": 96.074,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 56,
+      "korido": 96.182,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Zhou Guanyu",
+      "kod": "ZHO",
+      "csapat": "Kick Sauber",
+      "kor": 57,
+      "korido": 95.799,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 1,
+      "korido": 98.957,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 2,
+      "korido": 98.911,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 3,
+      "korido": 98.824,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 4,
+      "korido": 98.949,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 5,
+      "korido": 98.792,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 6,
+      "korido": 98.502,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 7,
+      "korido": 98.657,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 8,
+      "korido": 98.624,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 9,
+      "korido": 98.503,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 10,
+      "korido": 98.531,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 11,
+      "korido": 98.566,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 12,
+      "korido": 98.527,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 13,
+      "korido": 98.284,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 14,
+      "korido": 98.627,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 15,
+      "korido": 98.195,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 16,
+      "korido": 98.368,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 17,
+      "korido": 98.002,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 18,
+      "korido": 98.37,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 19,
+      "korido": 97.815,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 20,
+      "korido": 98.187,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 21,
+      "korido": 98.182,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 22,
+      "korido": 97.77,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 23,
+      "korido": 97.695,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 24,
+      "korido": 97.577,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 25,
+      "korido": 97.629,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 26,
+      "korido": 97.82,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 27,
+      "korido": 97.828,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 28,
+      "korido": 119.907,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 29,
+      "korido": 97.505,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 30,
+      "korido": 97.764,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 31,
+      "korido": 97.643,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 32,
+      "korido": 97.341,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 33,
+      "korido": 97.406,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 34,
+      "korido": 97.461,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 35,
+      "korido": 97.499,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 36,
+      "korido": 97.462,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 37,
+      "korido": 96.939,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 38,
+      "korido": 97.037,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 39,
+      "korido": 119.347,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 40,
+      "korido": 97.111,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 41,
+      "korido": 96.759,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 42,
+      "korido": 97.185,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 43,
+      "korido": 96.873,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 44,
+      "korido": 96.794,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 45,
+      "korido": 96.507,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 46,
+      "korido": 96.621,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 47,
+      "korido": 96.947,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 48,
+      "korido": 96.517,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 49,
+      "korido": 96.586,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 50,
+      "korido": 96.484,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 51,
+      "korido": 96.199,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 52,
+      "korido": 96.244,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 53,
+      "korido": 96.399,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 54,
+      "korido": 96.054,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 55,
+      "korido": 96.409,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 56,
+      "korido": 96.239,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Pierre Gasly",
+      "kod": "GAS",
+      "csapat": "Alpine",
+      "kor": 57,
+      "korido": 96.325,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 1,
+      "korido": 98.948,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 2,
+      "korido": 99.06,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 3,
+      "korido": 98.868,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 4,
+      "korido": 98.619,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 5,
+      "korido": 98.907,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 6,
+      "korido": 98.608,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 7,
+      "korido": 98.93,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 8,
+      "korido": 98.821,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 9,
+      "korido": 98.73,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 10,
+      "korido": 98.245,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 11,
+      "korido": 98.463,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 12,
+      "korido": 98.177,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 13,
+      "korido": 98.289,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 14,
+      "korido": 98.351,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 15,
+      "korido": 98.272,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 16,
+      "korido": 98.017,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 17,
+      "korido": 98.201,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 18,
+      "korido": 98.259,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 19,
+      "korido": 98.095,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 20,
+      "korido": 97.827,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 21,
+      "korido": 120.03,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 22,
+      "korido": 97.759,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 23,
+      "korido": 97.888,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 24,
+      "korido": 97.869,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 25,
+      "korido": 97.542,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 26,
+      "korido": 97.733,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 27,
+      "korido": 97.752,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 28,
+      "korido": 97.534,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 29,
+      "korido": 97.437,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 30,
+      "korido": 97.336,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 31,
+      "korido": 97.469,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 32,
+      "korido": 97.565,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 33,
+      "korido": 119.129,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 34,
+      "korido": 97.183,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 35,
+      "korido": 97.086,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 36,
+      "korido": 97.346,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 37,
+      "korido": 96.904,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 38,
+      "korido": 97.271,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 39,
+      "korido": 97.313,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 40,
+      "korido": 97.233,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 41,
+      "korido": 96.91,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 42,
+      "korido": 96.947,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 43,
+      "korido": 96.572,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 44,
+      "korido": 96.547,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 45,
+      "korido": 96.486,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 46,
+      "korido": 96.458,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 47,
+      "korido": 96.767,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 48,
+      "korido": 96.792,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 49,
+      "korido": 96.561,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 50,
+      "korido": 96.274,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 51,
+      "korido": 96.581,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 52,
+      "korido": 96.677,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 53,
+      "korido": 96.207,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 54,
+      "korido": 96.382,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 55,
+      "korido": 96.171,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 56,
+      "korido": 95.926,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Esteban Ocon",
+      "kod": "OCO",
+      "csapat": "Alpine",
+      "kor": 57,
+      "korido": 96.391,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 1,
+      "korido": 98.97,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 2,
+      "korido": 98.473,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 3,
+      "korido": 98.895,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 4,
+      "korido": 98.435,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 5,
+      "korido": 98.849,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 6,
+      "korido": 98.533,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 7,
+      "korido": 98.335,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 8,
+      "korido": 98.548,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 9,
+      "korido": 98.594,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 10,
+      "korido": 98.348,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 11,
+      "korido": 98.04,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 12,
+      "korido": 98.345,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 13,
+      "korido": 98.351,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 14,
+      "korido": 98.322,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 15,
+      "korido": 98.227,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 16,
+      "korido": 97.805,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 17,
+      "korido": 97.912,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 18,
+      "korido": 98.154,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 19,
+      "korido": 97.771,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 20,
+      "korido": 97.629,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 21,
+      "korido": 97.72,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 22,
+      "korido": 97.433,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 23,
+      "korido": 97.714,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 24,
+      "korido": 97.828,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 25,
+      "korido": 97.732,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 26,
+      "korido": 97.569,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 27,
+      "korido": 97.332,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 28,
+      "korido": 97.545,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 29,
+      "korido": 97.356,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 30,
+      "korido": 119.136,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 31,
+      "korido": 97.217,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 32,
+      "korido": 97.481,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 33,
+      "korido": 119.401,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 34,
+      "korido": 97.025,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 35,
+      "korido": 97.329,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 36,
+      "korido": 96.952,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 37,
+      "korido": 97.027,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 38,
+      "korido": 96.808,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 39,
+      "korido": 96.678,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 40,
+      "korido": 96.758,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 41,
+      "korido": 96.699,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 42,
+      "korido": 96.547,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 43,
+      "korido": 96.743,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 44,
+      "korido": 96.591,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 45,
+      "korido": 96.536,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 46,
+      "korido": 96.59,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 47,
+      "korido": 96.478,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 48,
+      "korido": 96.629,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 49,
+      "korido": 96.192,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 50,
+      "korido": 96.5,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 51,
+      "korido": 96.483,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Valtteri Bottas",
+      "kod": "BOT",
+      "csapat": "Kick Sauber",
+      "kor": 52,
+      "korido": 96.424,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 1,
+      "korido": 99.056,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 2,
+      "korido": 99.209,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 3,
+      "korido": 98.981,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 4,
+      "korido": 98.884,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 5,
+      "korido": 98.848,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 6,
+      "korido": 99.174,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 7,
+      "korido": 99.079,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 8,
+      "korido": 99.035,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 9,
+      "korido": 99.006,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 10,
+      "korido": 98.926,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 11,
+      "korido": 98.927,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 12,
+      "korido": 98.69,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 13,
+      "korido": 98.742,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 14,
+      "korido": 98.796,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 15,
+      "korido": 98.246,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 16,
+      "korido": 98.455,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 17,
+      "korido": 98.429,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 18,
+      "korido": 98.24,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 19,
+      "korido": 98.123,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 20,
+      "korido": 98.013,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 21,
+      "korido": 97.923,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 22,
+      "korido": 98.032,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 23,
+      "korido": 98.257,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 24,
+      "korido": 97.755,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 25,
+      "korido": 98.186,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 26,
+      "korido": 119.719,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 27,
+      "korido": 119.918,
+      "boxkiallas": true
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 28,
+      "korido": 97.569,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 29,
+      "korido": 97.642,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 30,
+      "korido": 97.982,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 31,
+      "korido": 97.731,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 32,
+      "korido": 97.412,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 33,
+      "korido": 97.359,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 34,
+      "korido": 97.397,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 35,
+      "korido": 97.248,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 36,
+      "korido": 97.262,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 37,
+      "korido": 97.282,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 38,
+      "korido": 97.559,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 39,
+      "korido": 97.274,
+      "boxkiallas": false
+    },
+    {
+      "versenyzo": "Logan Sargeant",
+      "kod": "SAR",
+      "csapat": "Williams",
+      "kor": 40,
+      "korido": 97.066,
+      "boxkiallas": false
+    }
+  ]

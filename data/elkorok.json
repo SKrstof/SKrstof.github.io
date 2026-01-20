@@ -1,0 +1,80 @@
+{
+    "szezon": 2024,
+    "sportag": "Formula 1",
+    "leiras": "A 2024-es szezonban élen töltött körök száma versenyzőnként",
+    "versenyek_szama": 24,
+    "osszes_kor_a_szezonban": 1325,
+    "statisztika": [
+      {
+        "helyezes": 1,
+        "versenyzo": "Max Verstappen",
+        "csapat": "Red Bull Racing",
+        "elen_toltott_korok": 489,
+        "szazalekos_arany": "36.9%"
+      },
+      {
+        "helyezes": 2,
+        "versenyzo": "Lando Norris",
+        "csapat": "McLaren",
+        "elen_toltott_korok": 208,
+        "szazalekos_arany": "15.7%"
+      },
+      {
+        "helyezes": 3,
+        "versenyzo": "Charles Leclerc",
+        "csapat": "Ferrari",
+        "elen_toltott_korok": 179,
+        "szazalekos_arany": "13.5%"
+      },
+      {
+        "helyezes": 4,
+        "versenyzo": "Oscar Piastri",
+        "csapat": "McLaren",
+        "elen_toltott_korok": 121,
+        "szazalekos_arany": "9.1%"
+      },
+      {
+        "helyezes": 5,
+        "versenyzo": "Carlos Sainz",
+        "csapat": "Ferrari",
+        "elen_toltott_korok": 114,
+        "szazalekos_arany": "8.6%"
+      },
+      {
+        "helyezes": 6,
+        "versenyzo": "George Russell",
+        "csapat": "Mercedes",
+        "elen_toltott_korok": 74,
+        "szazalekos_arany": "5.6%"
+      },
+      {
+        "helyezes": 7,
+        "versenyzo": "Lewis Hamilton",
+        "csapat": "Mercedes",
+        "elen_toltott_korok": 50,
+        "szazalekos_arany": "3.8%"
+      },
+      {
+        "helyezes": 8,
+        "versenyzo": "Fernando Alonso",
+        "csapat": "Aston Martin",
+        "elen_toltott_korok": 5,
+        "szazalekos_arany": "0.4%"
+      },
+      {
+        "helyezes": 9,
+        "versenyzo": "Lance Stroll",
+        "csapat": "Aston Martin",
+        "elen_toltott_korok": 3,
+        "szazalekos_arany": "0.2%"
+      },
+      {
+        "helyezes": 10,
+        "versenyzo": "Kevin Magnussen",
+        "csapat": "Haas",
+        "elen_toltott_korok": 2,
+        "szazalekos_arany": "0.15%"
+      }
+    ]
+  }
+

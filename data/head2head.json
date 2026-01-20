@@ -1,0 +1,88 @@
+{
+    "szezon": 2024,
+    "leiras": "Csapattársak egymás elleni teljesítménye (Head-to-Head) a 2024-es szezonban",
+    "adatok_forrasa": "Hivatalos F1 eredmények (Időmérő és Futam)",
+    "csapatok_statisztikai": [
+      {
+        "csapat": "Red Bull Racing",
+        "versenyzok": ["Max Verstappen", "Sergio Pérez"],
+        "idomero_parharc": "23 - 1",
+        "futam_parharc": "21 - 1",
+        "dominans_versenyzo": "Max Verstappen",
+        "megjegyzes": "A mezőny legnagyobb különbsége csapaton belül."
+      },
+      {
+        "csapat": "McLaren",
+        "versenyzok": ["Lando Norris", "Oscar Piastri"],
+        "idomero_parharc": "17 - 7",
+        "futam_parharc": "18 - 6",
+        "dominans_versenyzo": "Lando Norris",
+        "megjegyzes": "Piastri sokat fejlődött, de Norris még mindig stabilan gyorsabb volt versenytempóban."
+      },
+      {
+        "csapat": "Ferrari",
+        "versenyzok": ["Charles Leclerc", "Carlos Sainz"],
+        "idomero_parharc": "17 - 6",
+        "futam_parharc": "15 - 6",
+        "dominans_versenyzo": "Charles Leclerc",
+        "megjegyzes": "Sainz kihagyta a Szaúdi Nagydíjat, ott Bearman helyettesítette (nem számít bele a statisztikába)."
+      },
+      {
+        "csapat": "Mercedes",
+        "versenyzok": ["George Russell", "Lewis Hamilton"],
+        "idomero_parharc": "17 - 7",
+        "futam_parharc": "12 - 10",
+        "dominans_versenyzo": "George Russell (Időmérőn)",
+        "megjegyzes": "Russell váratlanul nagy fölényben volt egy körön, de a futamokon Hamilton tempója gyakran jobb volt."
+      },
+      {
+        "csapat": "Aston Martin",
+        "versenyzok": ["Fernando Alonso", "Lance Stroll"],
+        "idomero_parharc": "16 - 8",
+        "futam_parharc": "14 - 9",
+        "dominans_versenyzo": "Fernando Alonso",
+        "megjegyzes": "Stroll közelebb került Alonsohoz, mint 2023-ban, de a veterán spanyol még mindig dominál."
+      },
+      {
+        "csapat": "Alpine",
+        "versenyzok": ["Pierre Gasly", "Esteban Ocon"],
+        "idomero_parharc": "13 - 11",
+        "futam_parharc": "11 - 10",
+        "dominans_versenyzo": "Döntetlen közeli (Gasly enyhe előny)",
+        "megjegyzes": "A legszorosabb csapattársi párharc a mezőnyben, sokszor ütközésekkel tarkítva."
+      },
+      {
+        "csapat": "Williams",
+        "versenyzok": ["Alexander Albon", "Logan Sargeant / Franco Colapinto"],
+        "idomero_parharc": "20 - 3",
+        "futam_parharc": "16 - 4",
+        "dominans_versenyzo": "Alexander Albon",
+        "megjegyzes": "Albon 14-0-ra verte Sargeantet az időmérőkön. Colapinto érkezése után szorosabb lett a verseny."
+      },
+      {
+        "csapat": "Visa Cash App RB",
+        "versenyzok": ["Yuki Tsunoda", "Daniel Ricciardo"],
+        "idomero_parharc": "12 - 6",
+        "futam_parharc": "10 - 5",
+        "dominans_versenyzo": "Yuki Tsunoda",
+        "megjegyzes": "Az adatok a Szingapúri Nagydíjig értendők (Ricciardo távozása)."
+      },
+      {
+        "csapat": "Kick Sauber",
+        "versenyzok": ["Valtteri Bottas", "Zhou Guanyu"],
+        "idomero_parharc": "21 - 3",
+        "futam_parharc": "13 - 9",
+        "dominans_versenyzo": "Valtteri Bottas",
+        "megjegyzes": "Bottas egy körön hatalmas fölényben volt, de a gyenge autó miatt ez pontokban nem látszott."
+      },
+      {
+        "csapat": "Haas",
+        "versenyzok": ["Nico Hülkenberg", "Kevin Magnussen"],
+        "idomero_parharc": "20 - 4",
+        "futam_parharc": "16 - 6",
+        "dominans_versenyzo": "Nico Hülkenberg",
+        "megjegyzes": "Hülkenberg dominanciája vezetett ahhoz, hogy Magnussen elveszítette az ülését 2025-re."
+      }
+    ]
+  }
+
